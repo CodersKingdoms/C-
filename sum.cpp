@@ -1,8 +1,10 @@
-
 #include <iostream>
 using namespace std;
 int main()
 {
-    cout<<"aarushi";
+    int a= 10;
+    int b = 20;
+    cout<<a+b;
     return 0;
 }
+
